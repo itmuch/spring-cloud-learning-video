@@ -4,7 +4,7 @@
 
 
 
-##视频主旨
+## 视频主旨
 
 * 基于Spring Cloud Dalston SR1讲解
 
@@ -76,7 +76,4 @@
 ## Spring Cloud相关书籍推荐
 
 * 《Spring Cloud与Docker微服务架构实战》- 周立
-
 * 《Spring Cloud微服务实战》- 翟永超
-
-  ​
