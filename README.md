@@ -70,3 +70,13 @@
 * 翟永超：<http://blog.didispace.com>
 * 李强强：<http://www.bysocket.com>
 * 开源书：<http://www.github.com/eacdy/spring-cloud-book>
+
+
+
+## Spring Cloud相关书籍推荐
+
+* 《Spring Cloud与Docker微服务架构实战》- 周立
+
+* 《Spring Cloud微服务实战》- 翟永超
+
+  ​
