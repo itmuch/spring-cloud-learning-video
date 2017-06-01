@@ -8,7 +8,7 @@
 
 * 基于Spring Cloud Dalston SR1讲解
 
-- Spring Cloud组件的概括讲解
+- Spring Cloud核心组件的概括讲解
 - 帮助大家快速上手，理解Spring Cloud各组件的用途
 
 
