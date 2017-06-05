@@ -1,6 +1,6 @@
 
 
-# Spring Cloud公开课
+# 跟我学Spring Cloud
 
 
 
@@ -70,6 +70,8 @@
 * 翟永超：<http://blog.didispace.com>
 * 李强强：<http://www.bysocket.com>
 * 开源书：<http://www.github.com/eacdy/spring-cloud-book>
+
+
 
 
 
