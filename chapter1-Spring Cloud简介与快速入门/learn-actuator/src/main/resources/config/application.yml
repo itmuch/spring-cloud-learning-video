@@ -1,0 +1,19 @@
+server:
+  port: 8081
+
+info:
+  appName: @project.artifactId@
+  # @是占位符，是maven的resource插件的占位符
+  javaVersion: @java.version@
+  aaa:
+    bb: cc
+
+# 指定密码，访问actuator
+
+management:
+  security:
+    enabled: false
+  port: 8082
+
+
+
